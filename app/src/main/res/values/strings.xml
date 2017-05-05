@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AsyncTaskDemo</string>
+    <string name="fnumber">First Number</string>
+    <string name="snumber">Second Number</string>
+</resources>
